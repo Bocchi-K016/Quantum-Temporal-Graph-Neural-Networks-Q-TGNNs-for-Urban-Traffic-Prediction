@@ -42,3 +42,5 @@ METR-LA traffic dataset (March 2012 - June 2012)
 
 ## Future Directions
 Future work will focus on optimizing quantum layer configurations, exploring alternative quantum architectures, and testing Q-TGNNs in different domains like healthcare and finance. Access to more advanced quantum and GPU resources will further support the potential of Q-TGNNs for real-world traffic management.
+
+For more informations about the project read my detailed article on medium: https://medium.com/@fatimaezzahrakorchi34/breaking-the-traffic-deadlock-quantum-enhanced-graph-neural-networks-for-smarter-cities-f8168edd6e8c
